@@ -1,7 +1,7 @@
 {
-  "name": "yarn",
+  "name": "yarn_legacy",
   "installationMethod": "unknown",
-  "version": "1.22.22",
+  "version": "1.22.23",
   "packageManager": "yarn@1.22.17",
   "license": "BSD-2-Clause",
   "preferGlobal": true,
